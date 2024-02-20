@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696399938110",
+    "project_id": "reddit-clone-403b5",
+    "storage_bucket": "reddit-clone-403b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696399938110:android:418ce189d6b3ace73f476f",
+        "android_client_info": {
+          "package_name": "com.example.reddit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSWw5Ak0bri35Bk7mcbaks8vTr7T-iiBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
